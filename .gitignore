@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# Database
+*.sqlite3
+
+# Static files (khi collectstatic)
+staticfiles/
+
+# Environment variables
+.env
